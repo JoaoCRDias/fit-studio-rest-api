@@ -18,6 +18,9 @@
         "prettier"
     ],
     "rules": {
-        "prettier/prettier": "error"
+        "prettier/prettier": "error",
+        "eslint-disable-next-line": "off",
+        "require-jsdoc": "off",
+        "new-cap": "off"
     }
 }
